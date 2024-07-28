@@ -1,0 +1,54 @@
+.box{
+    height: 30rem;
+    width: 30rem;
+    border: 0.2rem solid red;
+    margin-top: 7rem;
+    margin-bottom: 7rem;
+    
+
+
+}
+.m{
+    background-image: url('https://t4.ftcdn.net/jpg/04/97/80/99/360_F_497809944_FMo3DO6j7XSlb9rZKOlnqaaWoJhuZXBm.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.mainbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.title{
+    height: 50%;
+    border-bottom: 0.1rem solid red;
+    
+
+}
+
+.search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    /* background-color: aqua; */
+}
+.find{
+    margin-top: 2rem;
+    width: 15rem;
+    height: 3rem;
+    background-color: wheat;
+    border: none;
+    border-radius: 2rem;
+}
+img{
+    height: 2rem;
+    width: 2rem;
+}
+.findb{
+    margin-top: 1.7rem;
+    margin-left: 1rem;
+}
